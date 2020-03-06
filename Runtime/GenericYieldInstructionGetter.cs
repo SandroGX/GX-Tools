@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
-using System;
 
 public enum TickType { Update, FixedUpdate, Seconds, SecondsRealtime }
 
+[System.Serializable]
 public class GenericYieldInstructionGetter
 {
     public TickType tickType;

@@ -14,7 +14,7 @@ namespace GX
             {
                 if (!instance)
                 {
-                    GameObject go = new GameObject("Game Manager");
+                    GameObject go = new GameObject("GX Game Manager");
                     DontDestroyOnLoad(go);
                     instance = go.AddComponent<GameManager>();
                 }

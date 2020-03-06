@@ -1,0 +1,17 @@
+{
+    "name": "Unity.GX.Tools.Editor",
+    "references": [
+        "GUID:b278b75b487a73a47897c9d20c15ff0d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
